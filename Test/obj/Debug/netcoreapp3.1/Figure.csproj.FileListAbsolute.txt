@@ -1,0 +1,14 @@
+C:\Users\Ilya\source\repos\Test\Test\bin\Debug\netcoreapp3.1\Figure.exe
+C:\Users\Ilya\source\repos\Test\Test\bin\Debug\netcoreapp3.1\Figure.deps.json
+C:\Users\Ilya\source\repos\Test\Test\bin\Debug\netcoreapp3.1\Figure.runtimeconfig.json
+C:\Users\Ilya\source\repos\Test\Test\bin\Debug\netcoreapp3.1\Figure.runtimeconfig.dev.json
+C:\Users\Ilya\source\repos\Test\Test\bin\Debug\netcoreapp3.1\Figure.dll
+C:\Users\Ilya\source\repos\Test\Test\bin\Debug\netcoreapp3.1\Figure.pdb
+C:\Users\Ilya\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Figure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilya\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Figure.AssemblyInfoInputs.cache
+C:\Users\Ilya\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Figure.AssemblyInfo.cs
+C:\Users\Ilya\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Figure.csproj.CoreCompileInputs.cache
+C:\Users\Ilya\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Figure.dll
+C:\Users\Ilya\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Figure.pdb
+C:\Users\Ilya\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Figure.genruntimeconfig.cache
+C:\Users\Ilya\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Figure.csproj.AssemblyReference.cache
